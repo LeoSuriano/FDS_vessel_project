@@ -7,5 +7,5 @@ This repository contains a small supervised learning project to classify **vesse
 - A short report with the project description and findings.
 
 ## Main idea
-AIS vessel type labels can be missing or unreliable. The goal is to train a model that predicts a vessel’s macro-class (e.g., Cargo, Tanker, Passenger) from basic geometry and movement-related features.
+AIS vessel type labels can be missing or unreliable. The goal is to train a model that predicts a vessel’s macro-class (e.g. Cargo, Tanker, Passenger and so on) from basic geometry and movement-related features.
 
